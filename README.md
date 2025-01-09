@@ -71,7 +71,7 @@ Farklı taşıt türlerini yöneten bir sistem.
 
 1. Repository'yi klonlayın:
 ```bash
-https://github.com/Gurkayx/Nesne-yonelimli-programlama-odev-sorulari.git
+[https://github.com/Gurkayx/Nesne-yonelimli-programlama-odev-sorulari.git](https://github.com/gunnesriza/GUNESRIZA)
 ```
 
 2. İlgili projenin dizinine gidin:
@@ -81,12 +81,12 @@ cd [proje-adi]
 
 3. Java dosyalarını derleyin:
 ```bash
-javac src/main/java/com/gurkay/*.java
+javac gunes*.java
 ```
 
 4. Programı çalıştırın:
 ```bash
-java -cp src/main/java com.gurkay.Main
+java -cp gunes.Main
 ```
 
 ## Gereksinimler
