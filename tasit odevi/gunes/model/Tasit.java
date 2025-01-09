@@ -1,4 +1,4 @@
-package com.gurkay.model;
+package com.gunes.model;
 
 public abstract class Tasit {
     private String marka;
