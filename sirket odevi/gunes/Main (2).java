@@ -1,8 +1,8 @@
-package com.gurkay;
+package com.gunes;
 
-import com.gurkay.model.Calisan;
-import com.gurkay.model.Mudur;
-import com.gurkay.model.Sirket;
+import com.gunes.model.Calisan;
+import com.gunes.model.Mudur;
+import com.gunes.model.Sirket;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,12 +10,12 @@ public class Main {
         Sirket sirket = new Sirket("G-tech A.Ş.", "İstanbul/Türkiye", 1000000);
         
         // Müdürler oluştur
-        Mudur mudur1 = new Mudur("Gürkay", "Çilinger", "12345678901", 45000, "Yazılım", "Üst Düzey");
-        Mudur mudur2 = new Mudur("Ayşe", "Demir", "12345678902", 30000, "İnsan Kaynakları", "Orta Düzey");
+        Mudur mudur1 = new Mudur("Güneş", "Rıza", "12345678901", 45000, "Yazılım", "Üst Düzey");
+        Mudur mudur2 = new Mudur("Nisanur", "Demirbüken", "12345678902", 30000, "İnsan Kaynakları", "Orta Düzey");
         
         // Çalışanlar oluştur
-        Calisan calisan1 = new Calisan("Muhammet", "Çilinger", "12345678903", 35000, "Yazılım");
-        Calisan calisan2 = new Calisan("Aleyna", "Çilinger", "12345678904", 30000, "Yazılım");
+        Calisan calisan1 = new Calisan("ayse", "rıza", "12345678903", 35000, "Yazılım");
+        Calisan calisan2 = new Calisan("ali", "veli", "12345678904", 30000, "Yazılım");
         Calisan calisan3 = new Calisan("Ali", "Öztürk", "12345678905", 13000, "İnsan Kaynakları");
         
         // Şirkete müdürleri ekle
