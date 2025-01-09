@@ -1,8 +1,8 @@
-package com.gurkay;
+package com.gunes;
 
-import com.gurkay.model.Calisan;
-import com.gurkay.model.Magaza;
-import com.gurkay.model.Sube;
+import com.gunes.model.Calisan;
+import com.gunes.model.Magaza;
+import com.gunes.model.Sube;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,10 +15,10 @@ public class Main {
         Sube sube3 = new Sube("ANK001", "Kızılay Şubesi", "Ankara/Kızılay", "0312-555-0001");
         
         // Çalışanlar oluştur
-        Calisan calisan1 = new Calisan("Gürkay", "Çilinger", "12345678901", 12000, "Kasiyer", "IST001");
-        Calisan calisan2 = new Calisan("Ayşe", "Demir", "12345678902", 15000, "Müdür Yardımcısı", "IST001");
-        Calisan calisan3 = new Calisan("Mehmet", "Kaya", "12345678903", 11000, "Kasiyer", "IST002");
-        Calisan calisan4 = new Calisan("Fatma", "Şahin", "12345678904", 13000, "Reyon Görevlisi", "ANK001");
+        Calisan calisan1 = new Calisan("güneş", "rıza", "12345678901", 12000, "Kasiyer", "IST001");
+        Calisan calisan2 = new Calisan("ayse", "rıza", "12345678902", 15000, "Müdür Yardımcısı", "IST001");
+        Calisan calisan3 = new Calisan("ali", "veli", "12345678903", 11000, "Kasiyer", "IST002");
+        Calisan calisan4 = new Calisan("fatma", "hayriye", "12345678904", 13000, "Reyon Görevlisi", "ANK001");
         
         // Şubeleri mağazaya ekle
         magaza.subeEkle(sube1);
