@@ -1,4 +1,4 @@
-package com.gurkay;
+package com.gunes;
 
 public class AsciiArtPrinter {
     private static final int HARF_YUKSEKLIK = 7;
