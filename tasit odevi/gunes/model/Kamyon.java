@@ -1,4 +1,4 @@
-package com.gurkay.model;
+package com.gunes.model;
 
 public class Kamyon extends Tasit {
     private double yukKapasitesi;
