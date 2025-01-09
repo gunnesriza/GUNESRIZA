@@ -1,4 +1,4 @@
-package com.gurkay.model;
+package com.gunes.model;
 
 import java.util.ArrayList;
 import java.util.List;
