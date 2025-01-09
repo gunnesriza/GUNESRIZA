@@ -1,8 +1,8 @@
-package com.gurkay;
+package com.gunes;
 
-import com.gurkay.model.Otomobil;
-import com.gurkay.model.Motosiklet;
-import com.gurkay.model.Kamyon;
+import com.gunes.model.Otomobil;
+import com.gunes.model.Motosiklet;
+import com.gunes.model.Kamyon;
 
 public class Main {
     public static void main(String[] args) {
