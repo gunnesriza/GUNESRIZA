@@ -1,4 +1,4 @@
-package com.gurkay.model;
+package com.gunes.model;
 
 public class Calisan {
     private String ad;
