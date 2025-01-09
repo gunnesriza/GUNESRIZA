@@ -1,9 +1,9 @@
-package com.gurkay;
+package com.gunes;
 
 public class Main {
     public static void main(String[] args) {
-        //�smi yazdıralım
+        //ismi yazdıralım
         AsciiArtPrinter asciiArtPrinter = new AsciiArtPrinter();
-        asciiArtPrinter.yazdir("GURKAY");
+        asciiArtPrinter.yazdir("GUNES");
     }
 }
