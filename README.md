@@ -94,11 +94,6 @@ java -cp gunes.Main
 - Java JDK 8 veya üzeri
 - Temel nesne yönelimli programlama bilgisi
 
-
-## Lisans
-
-Bu projeler eğitim amaçlı olup, MIT lisansı altında dağıtılmaktadır.
-
 ## İletişim
 
 Sorularınız için (gmail): [gunes1234riza@gmail.com] 
