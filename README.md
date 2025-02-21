@@ -1,4 +1,4 @@
-# Nesne Yönelimli Programlama 
+# Nesne Yönelimli Programlama Proje Ödevi
 
 
 Bu repository, 2025 yılı BLP233 Nesne Yönelimli Programlama dersi için hazırlanmış örnek projeleri içermektedir.
